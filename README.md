@@ -64,8 +64,23 @@ Hi, I'm **Nabil RAHHALI**, a software developer passionate about building modern
 
 <br/><br/>
 
-<img src="https://cdn.simpleicons.org/twilio/F22F46" height="48" alt="Twilio" />
+
+### Tools & Collaboration
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma&theme=dark" alt="Development tools" />
+
+<br/><br/>
+
+<img src="https://assets.twilio.com/public_assets/ui-assets/0.0.32/img/logos/twilio-login-logo.svg" height="48" alt="Twilio" />
 &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/asana/F06A6A" height="40" alt="Asana" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/trello/579DFF" height="40" alt="Trello" />
+
+</div>
+
 <img src="https://cdn.simpleicons.org/asana/F06A6A" height="48" alt="Asana" />
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/trello/579DFF" height="48" alt="Trello" />
