@@ -10,7 +10,7 @@
 <a href="https://github.com/rhlnabil">
   <img src="https://img.shields.io/badge/GitHub-rhlnabil-17141F?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="GitHub" />
 </a>
-<a href="https://www.linkedin.com/in/nabil-rahhali/">
+<a href="https://www.linkedin.com/in/nabil-rahhali-232555135/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-17141F?style=for-the-badge&logo=linkedin&logoColor=C4B5FD" alt="LinkedIn" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=rhlnabil&style=for-the-badge&color=6D5BA6&label=PROFILE+VIEWS" alt="Profile views" />
@@ -119,7 +119,7 @@ I enjoy turning complex problems into clean, practical and well-designed solutio
 
 ### Have an idea? Let's build it.
 
-<a href="https://www.linkedin.com/in/nabil-rahhali/">
+<a href="https://www.linkedin.com/in/nabil-rahhali-232555135/">
   <img src="https://img.shields.io/badge/LET'S%20CONNECT-17141F?style=for-the-badge&logo=linkedin&logoColor=C4B5FD" alt="Connect on LinkedIn" />
 </a>
 
