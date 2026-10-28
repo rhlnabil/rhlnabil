@@ -59,13 +59,12 @@ I enjoy transforming ideas into digital products through clean code, thoughtful 
 
 ### Mobile Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" />
+
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="42" alt="React Native" />
   <img src="https://img.shields.io/badge/React_Native-050505?style=flat-square&logo=react&logoColor=FF3333" height="28" alt="React Native" />
-</p></p>
+</p>
 
 ### Databases
 
