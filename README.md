@@ -55,19 +55,23 @@ Hi, I'm **Nabil RAHHALI**, a software developer passionate about building modern
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="PostgreSQL and MySQL" />
 
+
 ### Tools & Collaboration
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma&theme=dark" alt="Git, GitHub, VS Code, IntelliJ IDEA and Figma" />
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Twilio-Communication%20APIs-17141F?style=for-the-badge&logo=twilio&logoColor=F22F46" alt="Twilio" />
-<img src="https://img.shields.io/badge/Asana-Project%20Management-17141F?style=for-the-badge&logo=asana&logoColor=F06A6A" alt="Asana" />
-<img src="https://img.shields.io/badge/Trello-Task%20Management-17141F?style=for-the-badge&logo=trello&logoColor=579DFF" alt="Trello" />
+<img src="https://cdn.simpleicons.org/twilio/F22F46" height="48" alt="Twilio" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/asana/F06A6A" height="48" alt="Asana" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/trello/579DFF" height="48" alt="Trello" />
 
 </div>
 
----
 
 ## `03` — Selected Projects
 
