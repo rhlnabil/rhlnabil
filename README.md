@@ -1,184 +1,157 @@
 
-<div align="center">
+<!-- ==================== HEADER ==================== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:190707,70:8B0000,100:FF2020&height=250&section=header&text=NABIL%20RAHHALI&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20ENGINEERING%20DIGITAL%20EXPERIENCES&descSize=12&descAlignY=58&descColor=FFB3B3&animation=fadeIn" alt="Nabil Rahhali banner"/>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:190707,70:8B0000,100:FF2020&height=250&section=header&text=NABIL%20RAHHALI&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20ENGINEERING%20DIGITAL%20EXPERIENCES&descSize=12&descAlignY=58&descColor=FFB3B3&animation=fadeIn"
+    width="100%"
+    alt="Nabil Rahhali header"
+  />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=800&color=FF3333&center=true&vCenter=true&width=720&lines=Building+digital+experiences.;React+%7C+Spring+Boot+%7C+Java;Web+%26+Mobile+Development;Exploring+AI+%26+Computer+Vision." alt="Animated introduction"/>
+<!-- ==================== INTRODUCTION ==================== -->
 
-<br/><br/>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&width=650&lines=Software+Developer;Web+%26+Mobile+Application+Developer;Building+Modern+Digital+Experiences"
+    alt="Typing SVG"
+  />
+</p>
 
-<a href="https://github.com/rhlnabil">
-<img src="https://img.shields.io/badge/GITHUB-090909?style=for-the-badge&logo=github&logoColor=FF3030" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/nabil-rahhali-232555135/">
-<img src="https://img.shields.io/badge/LINKEDIN-090909?style=for-the-badge&logo=linkedin&logoColor=FF3030" alt="LinkedIn"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/DESIGN-180606?style=flat-square&labelColor=180606&color=E50914" alt="Design"/>
-<img src="https://img.shields.io/badge/DEVELOP-180606?style=flat-square&labelColor=180606&color=E50914" alt="Develop"/>
-<img src="https://img.shields.io/badge/DEPLOY-180606?style=flat-square&labelColor=180606&color=E50914" alt="Deploy"/>
-
-<br/>
-
-<em>Turning ideas into meaningful digital experiences.</em>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=E50914&height=3" alt="Red divider"/>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nabil-rahhali-232555135/">
+    <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=FF3333" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/rhlnabil">
+    <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=FF3333" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+## <span style="color:#FF3333;">01.</span> About Me
 
-## <span style="color:#FF3030">01</span> — ABOUT ME
+I'm a software developer passionate about building **modern, intuitive, and high-performance applications**.
 
-**Software Developer | Web & Mobile | AI Enthusiast**
+I enjoy transforming ideas into digital products through clean code, thoughtful UI/UX, and reliable backend architectures.
 
-I build modern applications with a focus on thoughtful design,
-reliable backend systems and intuitive user experiences.
-
-</div>
-
-- ◈ Developing responsive web applications with React.
-- ◈ Building backend services with Java and Spring Boot.
-- ◈ Designing database-driven applications with PostgreSQL and MySQL.
-- ◈ Exploring React Native, artificial intelligence and computer vision.
-- ◈ Always learning, experimenting and building something new.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=400A0A&height=2" alt="Section divider"/>
-
-## <span style="color:#FF3030">02</span> — TECH ARSENAL
-
-<div align="center">
-
-**// FRONTEND DEVELOPMENT**
-
-<img src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind&theme=dark" alt="Frontend stack"/>
-
-<br/>
-
-**// BACKEND DEVELOPMENT**
-
-<img src="https://skillicons.dev/icons?i=java,spring&theme=dark" alt="Backend stack"/>
-
-<br/>
-
-**// MOBILE & DATABASES**
-
-<img src="https://skillicons.dev/icons?i=react,postgres,mysql&theme=dark" alt="Mobile and database stack"/>
-
-<br/>
-
-**// TOOLS & WORKFLOW**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma&theme=dark" alt="Development tools"/>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=400A0A&height=2" alt="Section divider"/>
-
-## <span style="color:#FF3030">03</span> — FEATURED PROJECTS
-
-<div align="center">
-
-<a href="https://github.com/rhlnabil">
-<img src="https://img.shields.io/badge/EXPLORE-MY%20GITHUB-160606?style=for-the-badge&logo=github&logoColor=FF3030" alt="Explore projects"/>
-</a>
-
-</div>
-
-### <span style="color:#FF3030">▰</span> 🏎️ F1 Apex
-
-**Formula 1 Analytics Platform**
-
-A modern analytics experience for exploring driver standings, constructor rankings, race results and career statistics.
-
-<img src="https://img.shields.io/badge/REACT-101010?style=flat-square&logo=react&logoColor=FF3030" alt="React"/>
-<img src="https://img.shields.io/badge/SPRING%20BOOT-101010?style=flat-square&logo=springboot&logoColor=FF3030" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/POSTGRESQL-101010?style=flat-square&logo=postgresql&logoColor=FF3030" alt="PostgreSQL"/>
-
-### <span style="color:#FF3030">▰</span> 🍜 Asuka
-
-**Asian Restaurant Experience**
-
-An elegant restaurant concept showcasing culinary identity through modern design and an intuitive user experience.
-
-<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-160606?style=flat-square&logoColor=FF3030" alt="Web development"/>
-<img src="https://img.shields.io/badge/UI%2FUX-160606?style=flat-square" alt="UI UX"/>
-
-### <span style="color:#FF3030">▰</span> 🚘 Royal Ride
-
-**Luxury Car Marketplace**
-
-A premium automotive platform concept focused on vehicle discovery, presentation and the luxury car experience.
-
-<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-160606?style=flat-square" alt="Web development"/>
-<img src="https://img.shields.io/badge/UI%2FUX-160606?style=flat-square" alt="UI UX"/>
-
-### <span style="color:#FF3030">▰</span> 🇲🇦 Smart Morocco
-
-**Tourism & Travel Platform**
-
-A digital travel experience designed to help users discover Moroccan destinations and explore local attractions.
-
-<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-160606?style=flat-square" alt="Web development"/>
-<img src="https://img.shields.io/badge/TOURISM-160606?style=flat-square" alt="Tourism"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=400A0A&height=2" alt="Section divider"/>
-
-## <span style="color:#FF3030">04</span> — CURRENT DIRECTION
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/01-MODERN%20WEB%20DEVELOPMENT-160606?style=for-the-badge&labelColor=160606&color=E50914" alt="Modern web development"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/02-JAVA%20%26%20SPRING%20BOOT-160606?style=for-the-badge&labelColor=160606&color=B20D16" alt="Java and Spring Boot"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/03-MOBILE%20DEVELOPMENT-160606?style=for-the-badge&labelColor=160606&color=8B0000" alt="Mobile development"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/04-AI%20%26%20COMPUTER%20VISION-160606?style=for-the-badge&labelColor=160606&color=650000" alt="AI and computer vision"/>
-
-</div>
+- 💻 Developing web and mobile applications.
+- ⚙️ Building REST APIs and backend services.
+- 🗄️ Working with relational databases.
+- 🎨 Interested in modern interfaces and user experience.
+- 🚀 Constantly exploring new technologies and improving my skills.
 
 ---
 
-<div align="center">
+## <span style="color:#FF3333;">02.</span> Tech Stack
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=E50914&height=3" alt="Red divider"/>
+### Frontend Development
 
-<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind&theme=dark" alt="Frontend technologies" />
+</p>
 
-## LET'S BUILD SOMETHING GREAT.
+### Backend Development
 
-Have an idea, a project or an opportunity to collaborate?
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring&theme=dark" alt="Backend technologies" />
+</p>
 
-<br/>
+### Mobile Development
 
-<a href="https://www.linkedin.com/in/nabil-rahhali-232555135/">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-090909?style=for-the-badge&logo=linkedin&logoColor=FF3030" alt="Connect on LinkedIn"/>
-</a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-050505?style=flat-square&logo=react&logoColor=FF3333" alt="React Native" />
+</p>
 
-<br/><br/>
+### Databases
 
-<img src="https://komarev.com/ghpvc/?username=rhlnabil&style=flat-square&color=E50914&label=PROFILE+VIEWS" alt="Profile views"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Databases" />
+</p>
 
-<br/><br/>
+### Development Tools
 
-<sub>Crafted with curiosity, precision and ☕ by Nabil RAHHALI.</sub>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma&theme=dark" alt="Development tools" />
+</p>
 
-<br/><br/>
+<p align="center">
+  <img src="https://assets.twilio.com/public_assets/ui-assets/0.0.32/img/logos/twilio-login-logo.svg" height="42" alt="Twilio" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/asana-1.svg" height="42" alt="Asana" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" height="42" alt="Trello" />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:190707,70:8B0000,100:FF2020&height=140&section=footer" alt="Red and black animated footer"/>
+---
 
-</div>
+## <span style="color:#FF3333;">03.</span> Featured Projects
+
+### 🏎️ F1 Apex
+
+A modern Formula 1 analytics platform designed for motorsport enthusiasts.
+
+- Explore driver and constructor standings.
+- View race results and career statistics.
+- Modern and interactive user interface.
+
+**Technologies**
+
+![React](https://img.shields.io/badge/React-050505?style=flat-square&logo=react&logoColor=FF3333)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-050505?style=flat-square&logo=springboot&logoColor=FF3333)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-050505?style=flat-square&logo=postgresql&logoColor=FF3333)
+
+### 🍜 Asuka
+
+An Asian restaurant experience focused on presenting food, atmosphere, and restaurant information through a modern digital interface.
+
+**Focus:** Web design · User experience · Responsive interface
+
+### 👑 Royal Ride
+
+A luxury car marketplace concept designed to showcase premium vehicles through an elegant and refined interface.
+
+**Focus:** Automotive · Premium UI/UX · Web development
+
+### 🇲🇦 Smart Morocco
+
+A tourism platform concept designed to help users discover destinations and explore travel opportunities across Morocco.
+
+**Focus:** Tourism · Travel discovery · Digital experience
+
+---
+
+## <span style="color:#FF3333;">04.</span> Current Direction
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web_Development-120606?style=for-the-badge&logo=react&logoColor=FF3333" alt="Web Development" />
+  <img src="https://img.shields.io/badge/Backend_Engineering-120606?style=for-the-badge&logo=springboot&logoColor=FF3333" alt="Backend Engineering" />
+  <img src="https://img.shields.io/badge/Mobile_Apps-120606?style=for-the-badge&logo=react&logoColor=FF3333" alt="Mobile Apps" />
+</p>
+
+I'm focused on developing practical applications, improving software architecture, and creating digital experiences that combine functionality with polished design.
+
+---
+
+## <span style="color:#FF3333;">05.</span> Let's Connect
+
+<p align="center">
+  I'm always interested in technology, creative projects, and opportunities to build something meaningful.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nabil-rahhali-232555135/">
+    <img src="https://img.shields.io/badge/LET'S_CONNECT-8B0000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="Let's connect on LinkedIn" />
+  </a>
+</p>
+
+<!-- ==================== FOOTER ==================== -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2020,50:8B0000,100:050505&height=120&section=footer"
+    width="100%"
+    alt="Footer"
+  />
+</p>
